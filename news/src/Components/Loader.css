@@ -1,0 +1,31 @@
+/* Loader.css */
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center; 
+  height: 80vh; 
+}
+
+.loader {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: radial-gradient(farthest-side, #666 94%, #0000) top/9px 9px no-repeat,
+              conic-gradient(#0000 30%, #666);
+  -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 9px), #000 0);
+  animation: spinner-c7wet2 1s infinite linear;
+}
+
+@keyframes spinner-c7wet2 {
+  100% {
+    transform: rotate(1turn);
+  }
+}
+
+.loading-text {
+  margin-top: 20px; /* Top margin */
+  font-size: 16px; /* Font size */
+  color: #666; /* Text color */
+}

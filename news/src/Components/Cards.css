@@ -5,3 +5,9 @@
   flex-wrap: wrap;
   justify-content: center;
 }
+
+.cards-msg{
+  font-size: 3vmin;
+  line-height: 1.5;
+}
+

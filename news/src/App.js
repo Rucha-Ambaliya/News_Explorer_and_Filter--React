@@ -25,7 +25,7 @@ function App() {
 
   useEffect(() => {
     fetchData();
-  }, []);
+  }, [URL]);
 
   return (
     <div>

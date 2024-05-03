@@ -12,12 +12,11 @@ function App() {
 
   async function fetchData() {
     setLoading(true);
-    try{
+    try {
       let response = await fetch(URL);
       let output = await response.json();
       setData(output);
-    }
-    catch(error){
+    } catch (error) {
       console.log(error);
     }
     setLoading(false);

@@ -1,4 +1,4 @@
-# News_Filter--React
+# News_Explorer_and_Filter--React
 
 This is a news website built using React.js to display the latest news articles fetched from the News API.
 
@@ -40,7 +40,9 @@ The news website provides users with the latest news articles across various cat
 
 ## Note:
 
-- Due to restrictions on the API used for fetching data, the project has not been deployed. Requests from the browser are not allowed on the Developer plan, except from localhost. Therefore, the website is not accessible directly via a link. However, you can still clone the repository and run the project locally to explore its functionality.
+- Due to restrictions on the developer plan of the "News API", used for fetching data, the project has not been deployed. Therefore, the website is not accessible directly via a link. However, you can still clone the repository and run the project locally to explore its functionality.
+- Link to the video
+  - https://bit.ly/3QtleX2
 
 ## Acknowledgements
 

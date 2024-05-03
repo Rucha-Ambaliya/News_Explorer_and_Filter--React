@@ -42,7 +42,7 @@ The news website provides users with the latest news articles across various cat
 
 - Due to restrictions on the developer plan of the "News API", used for fetching data, the project has not been deployed. Therefore, the website is not accessible directly via a link. However, you can still clone the repository and run the project locally to explore its functionality.
 - Link to the video
-  - https://bit.ly/3QtleX2
+  - https://bit.ly/3QtpFkW
 
 ## Acknowledgements
 

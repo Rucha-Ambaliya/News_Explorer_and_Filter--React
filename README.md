@@ -1,4 +1,4 @@
-# News_Filter--React
+# News_Explorer_and_Filter--React
 
 This is a news website built using React.js to display the latest news articles fetched from the News API.
 
